@@ -1,6 +1,7 @@
 # Dependency directories
 node_modules/
 venv/
+venv-tf/
 
 # Environment variables
 .env
